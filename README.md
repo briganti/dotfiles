@@ -14,3 +14,6 @@ Don't forget to edit `.gitconfig` if you are not me. You may want to set a diffe
     name = Bob Sinclar
     email = bsinclar@lemagnifique.fr
 ```
+
+## Thanks to
+- Steve Losh and his [color scheme for Vim](https://github.com/sjl/badwolf)
