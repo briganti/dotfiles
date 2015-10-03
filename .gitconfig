@@ -1,0 +1,27 @@
+[alias]
+
+    # Record changes to the repository using verbose mode
+    cm = commit -v
+
+    # Switch branches or restore working tree files
+    co = checkout\
+
+    # Fetch updates for all remotes
+    ru = remote update
+
+    # View the current working tree in the short-format
+    s = status -s
+
+    # View the current working tree and show untracked files 
+    st = status -u
+
+[color "diff"]
+
+    meta = yellow bold
+    frag = magenta bold # line info
+    old = red # deletions
+    new = green # additions
+
+[user]
+    name = Michael Vial
+    email = michaelvial@gmail.com
