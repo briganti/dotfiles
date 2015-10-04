@@ -44,6 +44,6 @@ if [ -n "$force_color_prompt" ]; then
     fi
 fi
 
-export PS1="\[\033[38;5;196m\]\u\[$(tput sgr0)\]\[\033[38;5;246m\]@\[$(tput sgr0)\]\[\033[38;5;230m\]\h\[$(tput sgr0)\]\[\033[38;5;246m\]:\[$(tput bold)\]\[$(tput sgr0)\]\[\033[38;5;166m\]\W\[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[\033[38;5;136m\]\\$\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]"
-
+# set bash prompt
+source .bash_prompt
 

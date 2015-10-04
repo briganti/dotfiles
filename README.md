@@ -17,3 +17,5 @@ Don't forget to edit `.gitconfig` if you are not me. You may want to set a diffe
 
 ## Thanks to
 - Steve Losh and his [color scheme for Vim](https://github.com/sjl/badwolf)
+- Nicolas Gallagher for his [git prompt](https://github.com/necolas/dotfiles)
+
