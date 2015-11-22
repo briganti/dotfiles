@@ -47,3 +47,5 @@ fi
 # set bash prompt
 source .bash_prompt
 
+# set bash aliases
+source .bash_aliases 
